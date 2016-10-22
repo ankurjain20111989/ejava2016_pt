@@ -1,3 +1,5 @@
 build/
 dist/
+bower_components/
 /week02/nbproject/private/
+/week03/nbproject/private/
