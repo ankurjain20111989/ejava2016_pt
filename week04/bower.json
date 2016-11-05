@@ -1,0 +1,22 @@
+{
+  "name": "week04",
+  "homepage": "https://github.com/chukmunnlee/ejava2016_pt",
+  "authors": [
+    "Chuk <chukmunnlee@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {"chessboard.js":"0.3.2",
+    "bootstrap": "^3.3.7",
+    "chessboardjs": "chessboard.js#0.3.2"
+  }
+}
